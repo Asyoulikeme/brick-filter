@@ -1,0 +1,26 @@
+{
+	"name": "@xsyx/brick-filter",
+	"version": "0.2.16",
+	"description": "表单查询",
+	"main": "install.js",
+	"scripts": {
+		"pub": "cnpm publish",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dayjs": "^1.8.36"
+	},
+	"devDependencies": {},
+	"maintainers": [
+		{
+			"name": "wuyuwei",
+			"email": "wuyuwei@xsyx.com"
+		},
+		{
+			"name": "hecz",
+			"email": "hechengzhang@xsyx.com"
+		}
+	]
+}
