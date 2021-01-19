@@ -1,7 +1,8 @@
 {
   "name": "brick-filter",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "use config generate form",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -29,5 +30,12 @@
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "keywords": [
+    "vue",
+    "element-ui",
+    "filter",
+    "form",
+    "schema"
+  ]
 }
